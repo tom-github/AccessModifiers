@@ -1,0 +1,5 @@
+c:\users\everton\documents\visual studio 2013\Projects\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csprojResolveAssemblyReference.cache
+c:\users\everton\documents\visual studio 2013\Projects\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.dll
+c:\users\everton\documents\visual studio 2013\Projects\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.pdb
+c:\users\everton\documents\visual studio 2013\Projects\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.dll
+c:\users\everton\documents\visual studio 2013\Projects\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.pdb
